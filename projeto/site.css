@@ -24,7 +24,7 @@ blockquote {
   border: 10px solid #C2CCCA;
   width: 250px;
   margin: 0px;
-  box-sizing:border-box;
+  box-sizing: border-box;
 }
 
 aside {
@@ -51,7 +51,12 @@ aside a {
   font-family: "Open Sans Condensed", sans-serif;
 }
 
-
 blockquote, aside, footer {
-    padding: 20px;
+  padding: 20px;
+}
+
+div {
+  width: 720px;
+  margin-left: auto;
+  margin-right: auto;
 }
