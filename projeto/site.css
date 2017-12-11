@@ -102,7 +102,7 @@ em {
   width: 40px;
   height: 40px;
   display: inline-block;
-  font-size: 0px;
+  text-indent: -999999px;
 }
 
 .github{
