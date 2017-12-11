@@ -1,0 +1,17 @@
+figure{
+	width: 30%;
+	height: 30%;
+	border: 8px solid;
+	box-sizing: content-box;
+	margin: 16px;
+	background-color: #FAFFFC
+}
+
+figure img{
+	width: 100%;
+	height: 100%;
+}
+
+div figure{
+	display: inline-block;
+}
