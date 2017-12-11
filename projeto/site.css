@@ -7,6 +7,7 @@ body {
 
 h1, h2 {
 	font-family: "Open Sans Condensed", "Arial", sans-serif;
+  clear: both;
 }
 
 .titulo-principal {
@@ -36,11 +37,14 @@ p {
 	text-align: center;
 	background-color: #3C1D3D;
 	color: #F2FFFC;
+  clear: right;
+  box-sizing: border-box;
 }
 
 .rodape-pagina {
 	background-color: #000;
 	color: #F2FFFC;
+  clear: both;
 }
 
 main a {
@@ -118,4 +122,22 @@ em {
 }
 .barra-navegacao{
   text-transform: lowercase;
+}
+
+.fiat{
+  float: right;
+}
+
+.petrobras{
+  float: left;
+}
+
+aside, img{
+  float: right;
+  width: 15%;
+}
+
+main{
+  float: left;
+  width: 85%;
 }
