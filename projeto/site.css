@@ -116,3 +116,6 @@ em {
 .linkedin{
   background-image: url(linkedin.png);
 }
+.barra-navegacao{
+  text-transform: lowercase;
+}
