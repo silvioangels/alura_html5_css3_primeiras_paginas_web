@@ -1,0 +1,33 @@
+h1 {
+  color: red;
+}
+
+#simbolo_pausar {
+  border-left: 10px solid red;
+  border-right: 10px solid red;
+  width: 5px;
+  height: 30px;
+}
+
+#triangulo {
+  border-bottom: 30px solid red;
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  width: 0;
+}
+
+#gravata_borboleta {
+  border-top: 30px solid transparent;
+  border-bottom: 30px solid transparent;
+  border-left: 30px solid red;
+  border-right: 30px solid red;
+  width: 0;
+}
+
+#triangulo_reto {
+  border-left: 30px solid red;
+  border-bottom: 30px solid red;
+  border-top: 30px solid transparent;
+  border-right: 30px solid transparent;
+  width: 0;
+}
