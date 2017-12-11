@@ -37,8 +37,9 @@ p {
 	background-color: #3C1D3D;
 	color: #F2FFFC;
   clear: right;
-  position: relative;
-  top: 310px
+  position: absolute;
+    top: 310px;
+    right: 0;
 }
 
 .rodape-pagina {
@@ -139,7 +140,6 @@ nav a {
 }
 
 main {
-	float: left;
 	width: 85%;
 }
 
