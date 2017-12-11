@@ -7,3 +7,5 @@ se encontram erradas;
 mostrado no video. Por Exemplo: Até o final da aula 8, temos um fonte que está
 com o texto alinhado no meio, e o fonte que está no video está alinhado para a
 esqueda.
+4) O CSS do video se encontra diferente do css dos exercicios, por exemplo,
+no video ainda se encontra com as tags main a, e no exercicio é titulo-principal
