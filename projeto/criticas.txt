@@ -1,0 +1,5 @@
+1) O CSS do video está como bio.css e dos exercicios se encontra como site.css,
+isso está confundindo muito todos os videos e exercicios que são feitos;
+2) A Tag aside foi mostrada somente na aula 8, mas foi solicitada no exercicio 3,
+ou seja, é necessario arrumar essa cronologia dos videos/exercicios, pois elas
+se encontram erradas;
